@@ -1,6 +1,6 @@
 ### Hi, I'm Fatima 👋
 
-Computer Engineering student at the University of Tehran (6th semester), interested in web design, app development, and AI.
+Computer Engineering student (IT track) at the University of Tehran , interested in web design, app development, and AI.
 
 <img src="cat.gif" width="180" align="right" alt="cat" />
 
