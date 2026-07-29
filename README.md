@@ -1,11 +1,11 @@
 ### Hi, I'm Fatima 👋
 
-Computer Engineering student at the University of Tehran (6th semester), interested in web design, app development, and AI.
+Computer Engineering student at the University of Tehran, interested in web design, app development, and AI.
 
 <img src="cat.gif" width="180" align="right" alt="cat" />
 
+- 💼 Currently interning at: [Mehbang Group](https://www.linkedin.com/company/mehbang-group/)
 - 🔭 Currently working on: web and AI course projects
-- 🌱 Learning: PyTorch and NLP
 - 💬 Ask me about: frontend development, search algorithms, or Android apps built from web tech
 
 #### Featured projects
