@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi, I'm Fatima 👋
 
-<!--
-**fatimaBorhani/fatimaBorhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student at the University of Tehran (6th semester), interested in web design, app development, and AI.
 
-Here are some ideas to get you started:
+<img src="cat.gif" width="180" align="right" alt="cat" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on: web and AI course projects
+- 🌱 Learning: PyTorch and NLP
+- 💬 Ask me about: frontend development, search algorithms, or Android apps built from web tech
+
+#### Featured projects
+
+- 🛍️ [cosmetics-shop](https://github.com/fatimaBorhani/cosmetics-shop) — ARA Beauty cosmetics store frontend
+- 🤖 [ai-course-projects](https://github.com/fatimaBorhani/ai-course-projects) — AI course: search, genetic algorithms, ML, PyTorch, NLP
+- 📱 [dour-app](https://github.com/fatimaBorhani/dour-app) — Android app built from an HTML/CSS/JS web app
+- 🖥️ [os_ca4](https://github.com/fatimaBorhani/os_ca4) — Operating systems course assignment (xv6)
